@@ -3,7 +3,7 @@
 
 ## Install
 ```
-pip install tusic
+pip install git+https://github.com/bistcuite/tusic.git
 ```
 
 ## Play a music
